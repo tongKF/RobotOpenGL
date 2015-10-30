@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------------------------------------
-# RobotOpenGL
+# My Robot OpenGL
 --------------------------------------------------------------------------------------------------------------
 
 Summary:
@@ -15,7 +15,7 @@ move him along a square room, use and replace weapons and interact with a moving
 
 --------------------------------------------------------------------------------------------------------------
 
-Effects demonstartion:
+Effects Demonstartion:
 -----------------------
 Source of light (the yellow sphere) location can be controlled from the UI.
 Shadows of the player, weapons and car dynamically shown related to the source of light's location.
@@ -23,7 +23,7 @@ Reflaction effect can be demonstrated in the mirror.
 
 --------------------------------------------------------------------------------------------------------------
 
-User interface:
+User Interface:
 ---------------
 Located in the right side of the application,
 in the UI you can select the robot's weapon
@@ -47,13 +47,13 @@ P - Increase/Decrease power jump/salta
 
 ---------------------------------
 
-Camera sight and robot rotation:
+Camera Sight And Robot Rotation:
 --------------------------------
 Hold on mouse left button.
 
 ---------------------------------
 
-Programming language:
+Programming Language:
 ---------------------
 C#
 
@@ -72,7 +72,7 @@ After installation finsihed open My Robot OpenGL shortcut from desktop.
 
 --------------------------------------------------------------------------------------------------------------
 
-Running application from Visual Studio 2010 or above:
+Running Application From Visual Studio 2010 Or Above:
 -----------------------------------------------------
 Open 1.0.0.2\myOpenGL.sln with VS and click on the run button.
 
