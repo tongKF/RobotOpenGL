@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myRobot", "myOpenGL\myRobot.csproj", "{D118B639-8BF0-4AB3-B64D-254EE7731890}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Robot -Setup", "Robot -Setup\Robot -Setup.vdproj", "{4348447A-6CC2-403E-A8B2-17E1544CEAE1}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Robot OpenGL Setup", "Robot OpenGL Setup\Robot OpenGL Setup.vdproj", "{E14E1541-E0C9-417C-808D-9C8FC40A1D3C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +15,8 @@ Global
 		{D118B639-8BF0-4AB3-B64D-254EE7731890}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D118B639-8BF0-4AB3-B64D-254EE7731890}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D118B639-8BF0-4AB3-B64D-254EE7731890}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4348447A-6CC2-403E-A8B2-17E1544CEAE1}.Debug|Any CPU.ActiveCfg = Release
-		{4348447A-6CC2-403E-A8B2-17E1544CEAE1}.Release|Any CPU.ActiveCfg = Release
+		{E14E1541-E0C9-417C-808D-9C8FC40A1D3C}.Debug|Any CPU.ActiveCfg = Debug
+		{E14E1541-E0C9-417C-808D-9C8FC40A1D3C}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

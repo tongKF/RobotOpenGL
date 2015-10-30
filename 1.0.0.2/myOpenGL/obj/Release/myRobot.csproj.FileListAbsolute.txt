@@ -1,0 +1,8 @@
+D:\Projects\myOpenGL\tags\1.0.0.2\myOpenGL\bin\Release\myOpenGL.exe.config
+D:\Projects\myOpenGL\tags\1.0.0.2\myOpenGL\obj\Release\myOpenGL.exe
+D:\Projects\myOpenGL\tags\1.0.0.2\myOpenGL\obj\Release\myOpenGL.pdb
+D:\Projects\myOpenGL\tags\1.0.0.2\myOpenGL\bin\Release\myOpenGL.exe
+D:\Projects\myOpenGL\tags\1.0.0.2\myOpenGL\bin\Release\myOpenGL.pdb
+D:\Projects\myOpenGL\tags\1.0.0.2\myOpenGL\obj\Release\myOpenGL.Form1.resources
+D:\Projects\myOpenGL\tags\1.0.0.2\myOpenGL\obj\Release\myOpenGL.Properties.Resources.resources
+D:\Projects\myOpenGL\tags\1.0.0.2\myOpenGL\obj\Release\myRobot.csproj.GenerateResource.Cache
