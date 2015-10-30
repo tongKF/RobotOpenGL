@@ -14,3 +14,5 @@ D:\Projects\Final Project - Robot OpenGL - 1.0.0.2\myOpenGL\obj\Debug\myOpenGL.P
 D:\Projects\Final Project - Robot OpenGL - 1.0.0.2\myOpenGL\obj\Debug\myRobot.csproj.GenerateResource.Cache
 D:\Projects\tags\1.0.0.2\myOpenGL\obj\Debug\myOpenGL.exe
 D:\Projects\tags\1.0.0.2\myOpenGL\obj\Debug\myOpenGL.pdb
+D:\GitHub\RobotOpenGL\1.0.0.2\myOpenGL\obj\Debug\myOpenGL.exe
+D:\GitHub\RobotOpenGL\1.0.0.2\myOpenGL\obj\Debug\myOpenGL.pdb
