@@ -1,0 +1,7 @@
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\Final Project - Robot OpenGL\myOpenGL\bin\Release\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\Final Project - Robot OpenGL\myOpenGL\bin\Release\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\Final Project - Robot OpenGL\myOpenGL\obj\Release\ResolveAssemblyReference.cache
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\Final Project - Robot OpenGL\myOpenGL\obj\Release\myOpenGL.Form1.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\Final Project - Robot OpenGL\myOpenGL\obj\Release\myOpenGL.Properties.Resources.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\Final Project - Robot OpenGL\myOpenGL\obj\Release\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\Final Project - Robot OpenGL\myOpenGL\obj\Release\myOpenGL.pdb

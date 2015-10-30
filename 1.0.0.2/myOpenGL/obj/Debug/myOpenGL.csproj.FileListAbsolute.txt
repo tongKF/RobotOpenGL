@@ -1,0 +1,152 @@
+C:\Users\Yakir\Desktop\הנדסת מחשבים\שנה ד\גרפיקה ממוחשבת\Nodelman\P6\Robot\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\Yakir\Desktop\הנדסת מחשבים\שנה ד\גרפיקה ממוחשבת\Nodelman\P6\Robot\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\Yakir\Desktop\הנדסת מחשבים\שנה ד\גרפיקה ממוחשבת\Nodelman\P6\Robot\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yakir\Desktop\הנדסת מחשבים\שנה ד\גרפיקה ממוחשבת\Nodelman\P6\Robot\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\Yakir\Desktop\הנדסת מחשבים\שנה ד\גרפיקה ממוחשבת\Nodelman\P6\Robot\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\Yakir\Desktop\הנדסת מחשבים\שנה ד\גרפיקה ממוחשבת\Nodelman\P6\Robot\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\Yakir\Desktop\הנדסת מחשבים\שנה ד\גרפיקה ממוחשבת\Nodelman\P6\Robot\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\Nodelman\P6\Robot\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\Nodelman\P6\Robot\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot2\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot2\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot2\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot2\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot2\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot2\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot2\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot9 - walking good\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot9 - walking good\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot9 - walking good\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot9 - walking good\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot9 - walking good\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot9 - walking good\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot9 - walking good\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot6 - walking good\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot6 - walking good\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot6 - walking good\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot6 - walking good\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot6 - walking good\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot6 - walking good\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot6 - walking good\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot11- walking good - Copy (2)\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot11- walking good - Copy (2)\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot11- walking good - Copy (2)\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot11- walking good - Copy (2)\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot11- walking good - Copy (2)\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot11- walking good - Copy (2)\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot11- walking good - Copy (2)\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot11- walking good with camera\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot11- walking good with camera\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot11- walking good with camera\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot11- walking good with camera\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot11- walking good with camera\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot11- walking good with camera\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot11- walking good with camera\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+E:\פרויקט OPENGL\Robot7- walking good with camera\myOpenGL\obj\Debug\myOpenGL.exe
+E:\פרויקט OPENGL\Robot7- walking good with camera\myOpenGL\obj\Debug\myOpenGL.pdb
+E:\פרויקט OPENGL\Robot7- walking good with camera\myOpenGL\bin\Debug\myOpenGL.exe
+E:\פרויקט OPENGL\Robot7- walking good with camera\myOpenGL\bin\Debug\myOpenGL.pdb
+E:\פרויקט OPENGL\Robot7- walking good with camera\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+E:\פרויקט OPENGL\Robot7- walking good with camera\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+E:\פרויקט OPENGL\Robot7- walking good with camera\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot9- walking good with camera\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot9- walking good with camera\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot9- walking good with camera\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot9- walking good with camera\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot9- walking good with camera\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot9- walking good with camera\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot9- walking good with camera\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot10- good walking camera+reflection - try shadow\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot10- good walking camera+reflection - try shadow\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot10- good walking camera+reflection - try shadow\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot10- good walking camera+reflection - try shadow\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot10- good walking camera+reflection - try shadow\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot10- good walking camera+reflection - try shadow\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot10- good walking camera+reflection - try shadow\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot13- good walking camera+reflection+shadow\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot13- good walking camera+reflection+shadow\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot13- good walking camera+reflection+shadow\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot13- good walking camera+reflection+shadow\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot13- good walking camera+reflection+shadow\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot13- good walking camera+reflection+shadow\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot13- good walking camera+reflection+shadow\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot15- good walking+reflection+shadow\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot15- good walking+reflection+shadow\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot15- good walking+reflection+shadow\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot15- good walking+reflection+shadow\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot15- good walking+reflection+shadow\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot15- good walking+reflection+shadow\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot15- good walking+reflection+shadow\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot15- good walking+reflection+shadow+weapons+bounds\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot15- good walking+reflection+shadow+weapons+bounds\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot15- good walking+reflection+shadow+weapons+bounds\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot15- good walking+reflection+shadow+weapons+bounds\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot15- good walking+reflection+shadow+weapons+bounds\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot15- good walking+reflection+shadow+weapons+bounds\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot15- good walking+reflection+shadow+weapons+bounds\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot16- good walking+reflection+shadow+weapons+bounds\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot16- good walking+reflection+shadow+weapons+bounds\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot16- good walking+reflection+shadow+weapons+bounds\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot16- good walking+reflection+shadow+weapons+bounds\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot16- good walking+reflection+shadow+weapons+bounds\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot16- good walking+reflection+shadow+weapons+bounds\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot16- good walking+reflection+shadow+weapons+bounds\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot17- almost final\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot17- almost final\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot17- almost final\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot17- almost final\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot17- almost final\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot17- almost final\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot17- almost final\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot17- almost final - Copy\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot17- almost final - Copy\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot17- almost final - Copy\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot17- almost final - Copy\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot17- almost final - Copy\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot17- almost final - Copy\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot17- almost final - Copy\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot17- almost final - Copy - Copy\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot17- almost final - Copy - Copy\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot17- almost final - Copy - Copy\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot17- almost final - Copy - Copy\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot17- almost final - Copy - Copy\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot17- almost final - Copy - Copy\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot17- almost final - Copy - Copy\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot17- almost final - Clean items\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot17- almost final - Clean items\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot17- almost final - Clean items\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot17- almost final - Clean items\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot17- almost final - Clean items\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot17- almost final - Clean items\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\my_project\Robot17- almost final - Clean items\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\Final Project - Robot OpenGL\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\Final Project - Robot OpenGL\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\Final Project - Robot OpenGL\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\Final Project - Robot OpenGL\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\Final Project - Robot OpenGL\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\Final Project - Robot OpenGL\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\dell\Desktop\גרפיקה ממוחשבת\Final Project - Robot OpenGL\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\dell\Desktop\שנה ד סמסטר א\גרפיקה ממוחשבת\Final Project - Robot OpenGL\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\שנה ד סמסטר א\גרפיקה ממוחשבת\Final Project - Robot OpenGL\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\לימודים\פרויקטים\פרויקט OPENGL\Final Project - Robot OpenGL\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\לימודים\פרויקטים\פרויקט OPENGL\Final Project - Robot OpenGL\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\לימודים\פרויקטים\פרויקט OPENGL\Final Project - Robot OpenGL\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\dell\Desktop\לימודים\פרויקטים\פרויקט OPENGL\Final Project - Robot OpenGL\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\dell\Desktop\לימודים\פרויקטים\פרויקט OPENGL\Final Project - Robot OpenGL\myOpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dell\Desktop\לימודים\פרויקטים\פרויקט OPENGL\Final Project - Robot OpenGL\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\dell\Desktop\לימודים\פרויקטים\פרויקט OPENGL\Final Project - Robot OpenGL\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+D:\Projects\Final Project - Robot OpenGL\myOpenGL\bin\Debug\myOpenGL.exe
+D:\Projects\Final Project - Robot OpenGL\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+D:\Projects\Final Project - Robot OpenGL\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+D:\Projects\Final Project - Robot OpenGL\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+D:\Projects\Final Project - Robot OpenGL\myOpenGL\obj\Debug\myOpenGL.exe
+D:\Projects\Final Project - Robot OpenGL\myOpenGL\obj\Debug\myOpenGL.pdb
+D:\Projects\Final Project - Robot OpenGL\myOpenGL\bin\Debug\myOpenGL.pdb
+D:\Projects\Final Project - Robot OpenGL\myOpenGL\obj\Debug\myOpenGL.csprojResolveAssemblyReference.cache

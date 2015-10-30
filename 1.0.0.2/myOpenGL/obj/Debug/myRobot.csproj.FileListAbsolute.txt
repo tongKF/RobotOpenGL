@@ -1,0 +1,16 @@
+D:\Projects\Final Project - Robot OpenGL\myOpenGL\bin\Debug\myOpenGL.exe
+D:\Projects\Final Project - Robot OpenGL\myOpenGL\bin\Debug\myOpenGL.pdb
+D:\Projects\Final Project - Robot OpenGL\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+D:\Projects\Final Project - Robot OpenGL\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+D:\Projects\Final Project - Robot OpenGL\myOpenGL\obj\Debug\myRobot.csproj.GenerateResource.Cache
+D:\Projects\Final Project - Robot OpenGL\myOpenGL\obj\Debug\myOpenGL.exe
+D:\Projects\Final Project - Robot OpenGL\myOpenGL\obj\Debug\myOpenGL.pdb
+D:\Projects\Final Project - Robot OpenGL - 1.0.0.2\myOpenGL\obj\Debug\myOpenGL.exe
+D:\Projects\Final Project - Robot OpenGL - 1.0.0.2\myOpenGL\obj\Debug\myOpenGL.pdb
+D:\Projects\Final Project - Robot OpenGL - 1.0.0.2\myOpenGL\bin\Debug\myOpenGL.exe
+D:\Projects\Final Project - Robot OpenGL - 1.0.0.2\myOpenGL\bin\Debug\myOpenGL.pdb
+D:\Projects\Final Project - Robot OpenGL - 1.0.0.2\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+D:\Projects\Final Project - Robot OpenGL - 1.0.0.2\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+D:\Projects\Final Project - Robot OpenGL - 1.0.0.2\myOpenGL\obj\Debug\myRobot.csproj.GenerateResource.Cache
+D:\Projects\tags\1.0.0.2\myOpenGL\obj\Debug\myOpenGL.exe
+D:\Projects\tags\1.0.0.2\myOpenGL\obj\Debug\myOpenGL.pdb
