@@ -91,3 +91,4 @@ Open 1.0.0.2\myOpenGL.sln with VS and click on the run button.
 --------------------------------------------------------------------------------------------------------------
 
 
+![Alt text](/pics/1.jpg?raw=true)
