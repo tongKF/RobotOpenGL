@@ -92,13 +92,13 @@ Open 1.0.0.2\myOpenGL.sln with VS and click on the run button.
 
 Screenshots:
 -----------------------------------------------------
-[1](Pics/1.JPG)
-[2](Pics/2.JPG)
-[3](Pics/3.JPG)
-[4](Pics/4.JPG)
-[5](Pics/5.JPG)
-[6](Pics/6.JPG)
-[7](Pics/7.JPG)
-[8](Pics/8.JPG)
+![1](Pics/1.JPG)
+![2](Pics/2.JPG)
+![3](Pics/3.JPG)
+![4](Pics/4.JPG)
+![5](Pics/5.JPG)
+![6](Pics/6.JPG)
+![7](Pics/7.JPG)
+![8](Pics/8.JPG)
 
 --------------------------------------------------------------------------------------------------------------
