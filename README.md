@@ -91,4 +91,4 @@ Open 1.0.0.2\myOpenGL.sln with VS and click on the run button.
 --------------------------------------------------------------------------------------------------------------
 
 
-![1](/yakirisrael/RobotOpenGL/pics/1.jpg?raw=true)
+![1](/Pics/1.jpg?raw=true)
